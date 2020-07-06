@@ -2724,19 +2724,19 @@ void render_information_form()
 	printf("----------- INFORMATION -----------");
 
 	gotoxy(42, 26);
-	printf("Move - a, d");
+	printf("Move - A, D");
 
 	gotoxy(42, 29);
-	printf("Down - s");
+	printf("Down - S");
 
 	gotoxy(42, 32);
-	printf("Rotate - o, p");
+	printf("Rotate - O, P");
 
 	gotoxy(62, 26);
-	printf("Keep - ENTER");
+	printf("Keep - L");
 
 	gotoxy(62, 29);
-	printf("Pause - t");
+	printf("Pause - T");
 }
 
 void render_ending_form()
