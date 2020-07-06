@@ -1,0 +1,62 @@
+﻿  Framework.c
+D:\Private\Private Project\Tetris\Tetris\Framework.c(94,50): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(95,50): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(96,41): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(97,41): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(259,27): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(260,27): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(261,27): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(262,27): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(263,27): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(264,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(630,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(631,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(632,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(633,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(634,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(635,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(636,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(637,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(638,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(639,31): warning C4047: '=': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(908,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(913,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(918,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(923,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(928,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(938,31): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(957,32): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(974,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(979,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(984,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(989,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(994,37): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(1010,35): warning C4047: '==': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(1855,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2162,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2163,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2164,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2165,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2166,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2746,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2747,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2748,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2749,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2750,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2751,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2752,1): warning C4047: '초기화 중': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3068,34): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3069,34): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3070,25): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3071,25): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3077,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3087,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3097,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3107,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3117,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3127,34): warning C4047: '=': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(856): warning C4715: 'collision_cheak': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(1972): warning C4716: 'pattrn_fullstand': 값을 반환해야 합니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(2125): warning C4715: 'Render': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Private\Private Project\Tetris\Tetris\Framework.c(3209): warning C4715: 'switch_global_signal': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Tetris.vcxproj -> D:\Private\Private Project\Tetris\Tetris\Debug\Tetris.exe
