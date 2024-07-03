@@ -1,2 +1,0 @@
-D:\Private\Private Project\Tetris\Tetris\Debug\Tetris.exe
-D:\Private\Private Project\Tetris\Tetris\Debug\Tetris.pdb
